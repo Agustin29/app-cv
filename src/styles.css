@@ -1,1 +1,12 @@
 /* You can add global styles to this file, and also import other style files */
+:root {
+  --color-1: rgb(12, 53, 106);
+  --color-2: rgb(1, 116, 190);
+  --color-3: rgb(238, 245, 255);
+  --color-4: rgb(245, 245, 245);
+  --font-size-1: 4rem;
+  --font-size-2: 2rem;
+  --font-size-3: 1rem;
+  --font-family-1: 'Playfair Display', serif;
+  
+}
